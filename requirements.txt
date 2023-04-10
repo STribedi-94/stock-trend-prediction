@@ -8,3 +8,4 @@ streamlit
 datetime
 yfinance
 scikit-learn
+wheel
